@@ -1,0 +1,7 @@
+.c-container{
+    position: relative;
+    width: 420px;
+    height: 450px;
+    border-radius: 10px;
+    transform: translate(-50% -50%);
+}
